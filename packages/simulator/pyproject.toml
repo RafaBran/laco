@@ -1,0 +1,11 @@
+[project]
+name = "laco-simulator"
+version = "0.1.0"
+description = "Simulador de esquemas de reforçamento do LACO"
+requires-python = ">=3.14,<3.15"
+classifiers = ["Private :: Do Not Upload"]
+dependencies = []
+
+[build-system]
+requires = ["uv_build>=0.13.9,<0.14"]
+build-backend = "uv_build"
