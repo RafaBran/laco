@@ -6,33 +6,62 @@ Sequência de práticas virtuais para ensinar os fundamentos da análise do comp
 
 ## Premissas
 
-- **Carga:** 60 horas, 15 semanas de 4 horas. Foi a carga mais frequente em Straehl et al. (2022): 12 de 29 disciplinas, em um intervalo de 45 a 150 horas.
-- **Semana típica:** cerca de 2 horas de conceito e preparação e 2 horas de prática e análise.
-- **Sequência:** parte do roteiro comum no Brasil (nível operante, comedouro, modelagem, CRF, extinção, esquemas, discriminação) e acrescenta generalização, reversão e encadeamento, presentes no segundo semestre da PUC-SP. Reunir tudo em um semestre é ambicioso; ver a versão de 45 horas.
-- **Método:** cada semana introduz **uma** habilidade científica nova e reutiliza as anteriores. A ordem das habilidades é proposta deste projeto, não vem de estudo de eficácia.
+- **Carga de referência:** 60 horas, a mais frequente em Straehl et al. (2022): 12 de 29 disciplinas, em um intervalo de 45 a 150 horas.
+- **Unidade:** a prática, não a semana. São 15 práticas, de cerca de 2 horas de conceito e preparação e 2 horas de condução e análise, quantas o calendário comportar.
+- **Sequência:** parte do roteiro comum no Brasil (nível operante, comedouro, modelagem, CRF, extinção, esquemas, discriminação) e acrescenta generalização, reversão e encadeamento, presentes no segundo semestre da PUC-SP. Reunir tudo em um semestre é ambicioso; ver a versão reduzida.
+- **Método:** cada prática introduz **uma** habilidade científica nova e reutiliza as anteriores. A ordem das habilidades é proposta deste projeto, não vem de estudo de eficácia.
 - **Sujeito:** um rato por aluno, o mesmo durante o semestre, e dupla de trabalho. Cada aluno conduz o próprio experimento, observa o rato do colega e compara os dois resultados. O professor pode mudar para um rato por dupla ou trio. Quem se atrasar recebe um rato já treinado.
 
-## Sequência
+## Práticas
 
-| Semana | Prática | Pergunta | Habilidade científica | Tempo |
-|---|---|---|---|---|
-| 1 | Observação do repertório | O que o rato faz? Dois observadores concordam? | definição operacional e concordância entre observadores | real |
-| 2 | Linha de base | O comportamento está estável? Os ratos são iguais? | critério de estabilidade e variabilidade | real |
-| 3 | Treino ao bebedouro | O som adquiriu função reforçadora? | condição de controle (som não pareado) | real |
-| 4 | Modelagem | Que critério de reforço funciona melhor? | hipótese, VI e VD antes da coleta | real |
-| 5 | CRF, privação e saciação | O que mudou: aprendizagem ou motivação? | isolar variáveis | misto |
-| 6 | Extinção, recuperação e recondicionamento | A resposta foi apagada? | reversão (ABA) e descrição de dados | misto |
-| 7 | Razão fixa e variável | Como a razão altera taxa e pausa? | análise paramétrica e registro cumulativo | acelerado |
-| 8 | Intervalo fixo e variável | O padrão vem da taxa de reforço ou da contingência? | controle acoplado (*yoked*) | acelerado |
-| 9 | História e resistência à extinção | O esquema anterior muda a extinção? | comparar medidas e interpretações rivais | acelerado |
-| 10 | Oficina de replicação | O resultado de outra dupla se repete? | replicação, revisão por pares e pré-registro do projeto | livre |
-| 11 | Discriminação e reversão | O estímulo passou a controlar a resposta? | índice discriminativo e delineamento intrassujeito | misto |
-| 12 | Generalização | A quais estímulos o controle se estende? | teste de sondagem e gradiente | acelerado |
-| 13 | Encadeamento | Um elo reforça o anterior? | análise de componentes | misto |
-| 14 | Controle aversivo | A supressão dura? Ela vem da contingência ou do estímulo? | controle acoplado, duas análises dos mesmos dados e ética | misto |
-| 15 | Projeto da dupla | Pergunta própria, pré-registrada na semana 10 | condução, relatório e apresentação | livre |
+A ordem é recomendada. O que o sistema exige são os **pré-requisitos**; o calendário é do professor.
 
-O projeto é coletado entre as semanas 11 e 14 e apresentado na 15.
+| Nº | Prática | Pergunta | Habilidade científica | Tempo | Depende de | Tipo |
+|---|---|---|---|---|---|---|
+| 1 | Observação do repertório | O que o rato faz? Dois observadores concordam? | definição operacional e concordância entre observadores | real | — | essencial |
+| 2 | Linha de base | O comportamento está estável? Os ratos são iguais? | critério de estabilidade e variabilidade | real | 1 | essencial |
+| 3 | Treino ao bebedouro | O som adquiriu função reforçadora? | condição de controle (som não pareado) | real | 2 | essencial |
+| 4 | Modelagem | Que critério de reforço funciona melhor? | hipótese, VI e VD antes da coleta | real | 3 | essencial |
+| 5 | CRF, privação e saciação | O que mudou: aprendizagem ou motivação? | isolar variáveis | misto | 4 | essencial |
+| 6 | Extinção, recuperação e recondicionamento | A resposta foi apagada? | reversão (ABA) e descrição de dados | misto | 5 | essencial |
+| 7 | Razão fixa e variável | Como a razão altera taxa e pausa? | análise paramétrica e registro cumulativo | acelerado | 5 | essencial |
+| 8 | Intervalo fixo e variável | O padrão vem da taxa de reforço ou da contingência? | controle acoplado (*yoked*) | acelerado | 5 | essencial |
+| 9 | História e resistência à extinção | O esquema anterior muda a extinção? | comparar medidas e interpretações rivais | acelerado | 6 e 7 ou 8 | optativa |
+| 10 | Oficina de replicação | O resultado de outra dupla se repete? | replicação, revisão por pares e pré-registro do projeto | livre | 6 | essencial |
+| 11 | Discriminação e reversão | O estímulo passou a controlar a resposta? | índice discriminativo e delineamento intrassujeito | misto | 6 | essencial |
+| 12 | Generalização | A quais estímulos o controle se estende? | teste de sondagem e gradiente | acelerado | 11 | optativa |
+| 13 | Encadeamento | Um elo reforça o anterior? | análise de componentes | misto | 11 | optativa |
+| 14 | Controle aversivo | A supressão dura? Ela vem da contingência ou do estímulo? | controle acoplado, duas análises dos mesmos dados e ética | misto | 6 | essencial |
+| 15 | Projeto da dupla | Pergunta própria, pré-registrada na prática 10 | condução, relatório e apresentação | livre | 10 | essencial |
+
+Os números são rótulos, não datas.
+
+## Flexibilidade do professor
+
+O professor pode, para cada turma:
+
+- **Abrir e fechar** práticas em qualquer data, e reabrir para reposição.
+- **Adiar:** se uma aula não acontece, desloca as seguintes em bloco ou só a prática afetada.
+- **Reordenar, unir ou dividir** práticas, respeitando os pré-requisitos.
+- **Tornar optativa ou retirar** uma prática; o sistema avisa quais dependem dela.
+- **Dispensar um pré-requisito** com um rato já treinado.
+- **Estender o prazo** de um aluno ou de uma dupla.
+- **Escolher o modo:** em aula, a distância ou misto.
+
+Regras de proteção:
+
+- Uma sessão já coletada nunca é apagada por mudança de calendário.
+- Mudar o calendário não altera a história do rato. Dias sem aula **não** contam como passagem do tempo do experimento, salvo se a prática usar o intervalo como variável.
+- Toda mudança fica registrada e visível para os alunos da turma.
+
+### Exemplos
+
+| Situação | Ajuste |
+|---|---|
+| Feriado na data da modelagem | deslocar as seguintes em bloco |
+| Três aulas perdidas | retirar as optativas (9, 12 e 13) |
+| Aluno faltou ao treino ao bebedouro | reposição a distância ou rato já treinado |
+| Turma adiantada | abrir uma optativa ou trilha |
 
 ## Estrutura de cada prática
 
@@ -46,20 +75,16 @@ Todo relatório traz semente, versão do modelo, parâmetros e o aviso de dados 
 
 ## Avaliação sugerida
 
-- Relatórios curtos nas semanas 1 a 9 e 11 a 14.
-- Relatórios completos nas semanas 6 e 11.
-- Revisão do trabalho de outra dupla na semana 10.
-- Projeto final na semana 15.
+- Relatório curto por prática.
+- Dois relatórios completos, escolhidos pelo professor (sugestão: 6 e 11).
+- Revisão do trabalho de outra dupla na prática 10.
+- Projeto final.
 
 Uma previsão errada e bem discutida vale tanto quanto uma certa. Avalia-se o raciocínio, não o rato.
 
-## Versão de 45 horas
+## Versão reduzida
 
-- Unir as semanas 7 e 8, 11 e 12.
-- Tornar optativas as semanas 9 e 13.
-- Manter 1 a 6, 10, 14 e 15.
-
-Com 11 encontros, o ajuste fino cabe ao professor.
+Com as optativas fora (9, 12 e 13), são 12 práticas. Unir 7 e 8 dá 11 encontros, cerca de 44 horas.
 
 ## Trilhas futuras
 
@@ -91,7 +116,7 @@ Nos laboratórios com animais, a dupla ou o trio por rato é comum (Straehl et a
 
 | Estímulo | Situação |
 |---|---|
-| Choque | adotado na semana 14 |
+| Choque | adotado na prática 14 |
 | Jato de ar **quente** | trilha futura, como comparação |
 | *Timeout* | trilha futura, como punição negativa |
 
@@ -123,7 +148,7 @@ As amostras são pequenas, e a maior parte vem de um mesmo grupo de pesquisa. Os
 
 Em Silva (2019), a conclusão muda com a análise: pelas porcentagens não houve recuperação que igualasse os grupos; pelos valores absolutos, houve. A prática usa isso: **os mesmos dados, duas análises, duas conclusões**.
 
-### Roteiro da semana 14
+### Roteiro da prática 14
 
 1. Prever o efeito de intensidades nula, baixa e alta.
 2. Conduzir extinção com punição no início, com rato punido, controle e acoplado.
@@ -146,8 +171,10 @@ Reforço negativo (fuga) é uma variante com o mesmo material.
 - **Registro:** todo comportamento com início e fim, estímulos, respostas, reforço entregue e reforço consumido, reforço manual do aluno, fases e anotações.
 - **Separação:** o que o modelo gerou e o que o aluno observou nunca se misturam.
 - **Estado:** o rato mantém história, motivação e contexto entre sessões.
-- **Operandos e estímulos:** ao menos dois operandos e estímulos com intensidade, para as semanas 11 a 13.
-- **Acoplamento:** uma sessão pode usar como entrada os reforços de outra (semana 8).
+- **Operandos e estímulos:** ao menos dois operandos e estímulos com intensidade, para as práticas 11 a 13.
+- **Acoplamento:** uma sessão pode usar como entrada os reforços de outra (prática 8).
 - **Bifurcação:** cópia do estado do rato, para comparar condições a partir do mesmo ponto.
 
 A bifurcação não existe com animais vivos. Serve para ensinar controle experimental, com o aviso de que um experimento real não permite isso.
+- **Calendário:** a prática tem pré-requisitos e conteúdo; a turma tem datas. São entidades separadas, para o professor mudar uma sem alterar a outra.
+- **Tempo do experimento:** independente do calendário. O intervalo entre sessões é um valor registrado, não a diferença entre datas.
