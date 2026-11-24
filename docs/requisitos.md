@@ -72,6 +72,26 @@ Marcação: **[D]** decidido, pode ser revisto · **[A]** em aberto.
 - Procedimento definido para relatos sensíveis feitos ao Nhoque.
 - Provedor do LLM com termos que permitam o atendimento a menores.
 
+## Personalização por instituição
+
+**[D]** Cada instituição tem um tema, guardado como dado e aplicado sem recompilar o site.
+
+| Pode mudar | Não pode mudar |
+|---|---|
+| nome e logotipo, com autorização de uso da marca | aviso de dados simulados |
+| cor principal e cor secundária | cores dos gráficos e dos eventos da caixa |
+| estilo, entre os preparados pelo projeto (de 4 a 6) | cores de erro, alerta e sucesso |
+| modo claro ou escuro padrão | CSS livre |
+
+- Gráficos iguais em todas as instituições, para que um mesmo experimento seja lido do mesmo jeito.
+- O sistema confere o contraste e recusa ou ajusta cores ilegíveis.
+
+## Sistema de estudo
+
+**[D]** O estudo usa o método Keller (PSI) como base, e a gamificação se apoia no domínio do conteúdo. Detalhes, fontes e decisões pendentes em `docs/sistema-de-estudo.md`.
+
+**[D]** Sem ranking nominal de alunos.
+
 ## Em aberto
 
 - **[A]** Enquadramento no ECA Digital (Lei 15.211/2025 e Decreto 12.880/2026), inclusive aferição de idade; exige avaliação jurídica.
@@ -80,3 +100,4 @@ Marcação: **[D]** decidido, pode ser revisto · **[A]** em aberto.
 - **[A]** Revisão científica externa antes do uso com alunos reais.
 - **[A]** Fonte da curva de validação.
 - **[A]** Provedor de e-mail e hospedagem.
+- **[A]** Autoria e revisão das questões e peso do domínio na nota.
