@@ -73,7 +73,7 @@ Objetivos → Estudo → Verificação → Prática na caixa → Conclusão → 
 
 ### Critério de domínio
 
-- **Proposta:** demonstrar **todos os objetivos**, não acertar 100% dos itens de uma prova longa. O aluno refaz só o que faltou.
+- Demonstrar **todos os objetivos**, não acertar 100% dos itens de uma prova longa. O aluno refaz só o que faltou.
 - O professor pode mudar o critério da turma, e o sistema informa o que a literatura diz sobre afrouxá-lo.
 - Tentativas sem limite e sem desconto. Cada nova tentativa usa **itens diferentes** para o mesmo objetivo.
 - Entre tentativas, o aluno passa pela explicação do erro, para não avançar por tentativa e erro.
@@ -178,12 +178,12 @@ Medir para melhorar a disciplina é uso pedagógico. Usar os dados em **pesquisa
 |---|---|---|
 | 1 | PSI como base, gamificação sobre o domínio | decidido |
 | 2 | Sem ranking nominal | decidido |
-| 3 | Critério: todos os objetivos, tentativas sem desconto | proposta |
-| 4 | Prazos recomendados, sem perda por atraso | proposta |
+| 3 | Critério: todos os objetivos, tentativas sem desconto | decidido, a confirmar após as leituras da seção 9 |
+| 4 | Prazos recomendados, sem perda por atraso | decidido |
 | 5 | Elementos de jogo da seção 4 | proposta |
 | 6 | Aluno monitor só em fase posterior | proposta |
 | 7 | Registro cumulativo do próprio estudo | proposta |
-| 8 | Quem escreve e quem revisa as questões | em aberto |
+| 8 | Questões rascunhadas com fontes; o responsável científico revisa e aprova cada uma | decidido |
 | 9 | Quanto o domínio pesa na nota (sugestão: o professor decide) | em aberto |
 
 ## 9. Leituras que faltam

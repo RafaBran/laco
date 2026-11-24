@@ -100,4 +100,4 @@ Marcação: **[D]** decidido, pode ser revisto · **[A]** em aberto.
 - **[A]** Revisão científica externa antes do uso com alunos reais.
 - **[A]** Fonte da curva de validação.
 - **[A]** Provedor de e-mail e hospedagem.
-- **[A]** Autoria e revisão das questões e peso do domínio na nota.
+- **[A]** Peso do domínio na nota.
