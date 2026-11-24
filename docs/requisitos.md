@@ -76,5 +76,7 @@ Marcação: **[D]** decidido, pode ser revisto · **[A]** em aberto.
 
 - **[A]** Enquadramento no ECA Digital (Lei 15.211/2025 e Decreto 12.880/2026), inclusive aferição de idade; exige avaliação jurídica.
 - **[A]** Base legal, prazo de retenção e exclusão de dados (LGPD, incluindo o art. 14), e divisão de responsabilidades com as instituições.
-- **[A]** Responsável científico e fonte da curva de validação.
+- **[D]** Responsável científico provisório: o mantenedor do projeto.
+- **[A]** Revisão científica externa antes do uso com alunos reais.
+- **[A]** Fonte da curva de validação.
 - **[A]** Provedor de e-mail e hospedagem.
